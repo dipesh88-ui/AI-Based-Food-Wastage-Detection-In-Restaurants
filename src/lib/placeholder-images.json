@@ -1,0 +1,59 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-restaurant",
+      "description": "A beautiful and elegant restaurant setting.",
+      "imageUrl": "https://t4.ftcdn.net/jpg/02/48/26/71/360_F_248267151_wVVnunPUT08vmfgfzidrjX3pFOrkEXa0.jpg",
+      "imageHint": "restaurant setting"
+    },
+    {
+      "id": "feature-1",
+      "description": "A smartphone camera focused on a plate of leftover food.",
+      "imageUrl": "https://www.letsnurture.com/wp-content/uploads/2020/02/ai-for-food-detection-blog-banner.jpg",
+      "imageHint": "food photo"
+    },
+    {
+      "id": "feature-2",
+      "description": "A dashboard showing charts and graphs of waste analytics.",
+      "imageUrl": "https://dam.mediacorp.sg/image/upload/s--oJof3wmA--/f_auto,q_auto/c_fill,g_auto,h_622,w_830/v1/tdy-migration/study_on_food_loss_and_food_waste_in_singapore_infographic_6_aug_2019-2.jpg?itok=xWxX3nYA",
+      "imageHint": "waste analytics"
+    },
+    {
+      "id": "blog-post-1",
+      "description": "An image of fresh vegetables on a cutting board.",
+      "imageUrl": "https://picsum.photos/seed/kitchenscraps/400/300",
+      "imageHint": "vegetable scraps"
+    },
+    {
+      "id": "blog-post-2",
+      "description": "An image of a compost bin with food scraps.",
+      "imageUrl": "https://picsum.photos/seed/compost/400/300",
+      "imageHint": "compost bin"
+    },
+    {
+      "id": "blog-post-3",
+      "description": "A close-up of a restaurant's detailed financial report with a pen pointing to a chart.",
+      "imageUrl": "https://picsum.photos/seed/report/400/300",
+      "imageHint": "financial report"
+    },
+    {
+      "id": "how-it-works-1",
+      "description": "A smartphone camera focused on a plate of leftover food.",
+      "imageUrl": "https://thumbs.dreamstime.com/b/hand-woman-take-pictures-food-made-herself-sellers-photo-smartphone-to-post-online-ordering-website-186244726.jpg",
+      "imageHint": "food photo"
+    },
+    {
+      "id": "how-it-works-2",
+      "description": "Abstract visualization of AI neural networks processing data.",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D5612AQHjrWE66ddAaw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1710512949374?e=2147483647&v=beta&t=ClBnckCvAkSEHohhiJiX4t7uR9dQH3FzQKUJ0owMI0A",
+      "imageHint": "AI processing"
+    },
+    {
+      "id": "how-it-works-3",
+      "description": "A restaurant manager reviewing a tablet with waste analytics.",
+      "imageUrl": "https://www.hb.se/contentassets/b8e03c2bebe94a51b1f17e6a6d42f710/supermwaste700.jpg",
+      "imageHint": "manager review"
+    }
+  ]
+}
