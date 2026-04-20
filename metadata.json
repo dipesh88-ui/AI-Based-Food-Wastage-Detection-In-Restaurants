@@ -1,0 +1,7 @@
+{
+  "name": "Food Wastage Detection",
+  "description": "AI-powered food wastage reduction for restaurants using image analysis to track and minimize waste.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

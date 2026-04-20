@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: food-wastage-detection
+    env: node
+    buildCommand: npm install && npm run build
+    startCommand: npm run start
+    envVars:
+      - key: NEXT_PUBLIC_GEMINI_API_KEY
+        sync: false # You will need to provide this value in the Render dashboard
